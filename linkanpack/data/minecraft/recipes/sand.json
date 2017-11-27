@@ -1,0 +1,20 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "#D#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gravel"
+        },
+        "D": {
+            "item": "minecraft:gunpowder"
+        }
+    },
+    "result": {
+        "item": "minecraft:sand",
+        "count": 8
+    }
+}
