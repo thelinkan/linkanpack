@@ -1,3 +1,6 @@
 {
-  "values": ["linkanpack:terrain","linkanpack:betterstands"]
+  "values": [
+    "linkanpack:terrain",
+    "linkanpack:betterstands"
+  ]
 }
