@@ -1,0 +1,40 @@
+{"pools":[
+	{
+		"rolls":1,
+		"entries":[
+			{"type":"item","name":"minecraft:written_book","weight":1,"functions":[
+				{
+					"function":"set_nbt",
+					"tag":"{
+						pages:
+						[
+							\"[
+								\\\"\\\",
+								{\\\"text\\\":\\\"The Beginning\n\nIn the beginning, there was only Notch the allmighty. \\\"},
+								{\\\"text\\\":\\\"Notch wanted there to be dirt and stone, and there was dirt, stone and grass. \\\"},
+								{\\\"text\\\":\\\"Steve was set loose to roam the world. \\\"},
+								{\\\"text\\\":\\\"Notch was happy with his creation, and went to sleep.\\\"}
+							]\",
+							\"[
+							  {\\\"text\\\":\\\"The world needed something more, so Notch created bedrock, water and lava.\n\n\\\"},
+							  {\\\"text\\\":\\\"The world still felt empty, and so Notch created sand, gravel ore and trees.\\\"}
+							]\",
+							\"[
+							  {\\\"text\\\":\\\"Notch wanted Steve to worship him, but he just wanted to explore. \\\"},
+							  {\\\"text\\\":\\\"Therefor Notch added Zombies and Skeletons, to punish Steve.\n\n\\\"},
+							  {\\\"text\\\":\\\"Steve still didn't worship Notch, so Creepers where emerged.\n\n\\\"}
+							]\",
+							\"[
+							  {\\\"text\\\":\\\"Still more life was needed in the world, so Notch created spiders, pigs and sheep. \n\n\\\"},
+							  {\\\"text\\\":\\\"In the honor of Notch the allmighty, Steve needs to build him tempels of stone, iron and gold.\\\"}
+							]\"
+						],
+						title:\"The Beginning\",
+						author:\"High Priest\",
+						display:{Lore:[\"The beginning of everything\"]}
+						}"
+				}]
+			}]
+	}]
+}
+
