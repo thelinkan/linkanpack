@@ -1,0 +1,20 @@
+{
+	"pools": [
+		{
+			"rolls":1,
+			"entries":[ 
+				{
+					"type":"item",
+					"name":"minecraft:leather_chestplate",
+					"weight":1,
+					"functions": [
+						{	
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"{\\\"text\\\":\\\"Chestpiece of slowing down\\\",\\\"italic\\\":false,\\\"color\\\":\\\"gray\\\"}\"},AttributeModifiers:[{AttributeName:\"generic.movementSpeed\",Name:\"generic.movementSpeed\",Amount:-0.02,Operation:0,UUIDMost:12970,UUIDLeast:469396,Slot:\"chest\"}]}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

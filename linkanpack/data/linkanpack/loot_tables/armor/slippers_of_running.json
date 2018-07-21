@@ -10,7 +10,7 @@
 					"functions": [
 						{	
 							"function": "set_nbt",
-							"tag": "{display:{Name:\"{\\\"text\\\":\\\"Slippers of running\\\",\\\"italic\\\":false,\\\"color\\\":\\\"green\\\"}\"},AttributeModifiers:[{AttributeName:\"generic.movementSpeed\",Name:\"generic.movementSpeed\",Amount:2,Operation:0,UUIDLeast:411720,UUIDMost:460255,Slot:\"feet\"}]}"
+							"tag": "{display:{Name:\"{\\\"text\\\":\\\"Slippers of running\\\",\\\"italic\\\":false,\\\"color\\\":\\\"green\\\"}\"},AttributeModifiers:[{AttributeName:\"generic.movementSpeed\",Name:\"generic.movementSpeed\",Amount:0.04,Operation:0,UUIDLeast:411720,UUIDMost:460255,Slot:\"feet\"}]}"
 						}
 					]
 				}
