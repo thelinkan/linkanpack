@@ -1,0 +1,32 @@
+{
+	"pools": [
+		{
+			"rolls":1,
+			"entries":[ 
+                {
+                    "type": "loot_table",
+                    "name": "linkanpack:armor/slippers_of_running",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": 1
+                        }
+                    ],
+                    "weight": 20
+                    },
+					                {
+                    "type": "loot_table",
+                    "name": "linkanpack:armor/chest_minor_health",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": 1
+                        }
+                    ],
+                    "weight": 20
+                    }
+
+			]
+		}
+	]
+}
