@@ -13,3 +13,7 @@ Quite a few new recepies, eg glass blocks from panes and wood from slabs.
 ## Installation
 
 Put the linkanpack folder into the datapack folder of the save game folder. Since the changes in 17w49b, there is no longer a need use gameloopFunction.
+
+## Tools used creating this datapack
+
+To create some of the loot tables I have used https://mcstacker.net/
