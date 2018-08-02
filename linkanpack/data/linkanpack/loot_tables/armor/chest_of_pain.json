@@ -11,6 +11,13 @@
 						{	
 							"function": "set_nbt",
 							"tag": "{display:{Name:\"{\\\"text\\\":\\\"Chestpiece of pain\\\",\\\"italic\\\":false,\\\"color\\\":\\\"grey\\\"}\"},AttributeModifiers:[{AttributeName:\"generic.maxHealth\",Name:\"generic.maxHealth\",Amount:-4,Operation:0,UUIDMost:12970,UUIDLeast:469396,Slot:\"chest\"}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0,
+								"max": 0.90
+							}
 						}
 					]
 				}

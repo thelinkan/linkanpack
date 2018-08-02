@@ -1,0 +1,27 @@
+{
+	"pools": [
+		{
+			"rolls":1,
+			"entries":[ 
+				{
+					"type":"item",
+					"name":"minecraft:leather_leggings",
+					"weight":1,
+					"functions": [
+						{	
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"{\\\"text\\\":\\\"Broken legs\\\",\\\"color\\\":\\\"gray\\\",\\\"italic\\\":false}\",\"color\":16711680},AttributeModifiers:[{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:-2,Operation:0,UUIDLeast:295785,UUIDMost:437984,Slot:\"legs\"}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0,
+								"max": 0.90
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

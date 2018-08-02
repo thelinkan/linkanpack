@@ -1,9 +1,9 @@
 {
-	"pools": [
-		{
-			"rolls":1,
-			"entries":[ 
-                {
+  "pools": [
+    {
+      "rolls":1,
+      "entries":[ 
+                  {
                     "type": "loot_table",
                     "name": "linkanpack:armor/chest_of_weight",
                     "functions": [
@@ -14,9 +14,31 @@
                     ],
                     "weight": 20
                     },
-					                {
+                    {
                     "type": "loot_table",
                     "name": "linkanpack:armor/chest_of_pain",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": 1
+                        }
+                    ],
+                    "weight": 20
+                    },
+                    {
+                    "type": "loot_table",
+                    "name": "linkanpack:armor/broken_leather_hat",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": 1
+                        }
+                    ],
+                    "weight": 20
+                    },
+                    {
+                    "type": "loot_table",
+                    "name": "linkanpack:armor/broken_leather_legs",
                     "functions": [
                         {
                             "function": "set_count",

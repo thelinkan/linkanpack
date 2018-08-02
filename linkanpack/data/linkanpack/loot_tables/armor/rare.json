@@ -1,0 +1,21 @@
+{
+	"pools": [
+		{
+			"rolls":1,
+			"entries":[ 
+                {
+                    "type": "loot_table",
+                    "name": "linkanpack:armor/skeleton_shield",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": 1
+                        }
+                    ],
+                    "weight": 20
+                    }
+
+			]
+		}
+	]
+}

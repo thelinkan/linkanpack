@@ -1,0 +1,20 @@
+{
+	"pools": [
+		{
+			"rolls":1,
+			"entries":[ 
+				{
+					"type":"item",
+					"name":"minecraft:shield",
+					"weight":1,
+					"functions": [
+						{	
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"{\\\"text\\\":\\\"Skeleton Shield\\\",\\\"color\\\":\\\"blue\\\",\\\"italic\\\":false}\"},Enchantments:[{id:\"minecraft:unbreaking\",lvl:3}],AttributeModifiers:[{AttributeName:\"generic.attackDamage\",Name:\"generic.attackDamage\",Amount:1,Operation:0,UUIDLeast:950779,UUIDMost:1064,Slot:\"offhand\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:2,Operation:0,UUIDLeast:304286,UUIDMost:562247,Slot:\"offhand\"}]}"
+						}
+					]
+				}
+			]
+		}
+	]
+}
