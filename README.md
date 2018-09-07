@@ -3,12 +3,12 @@ A datapack for Minecraft
 
 For this datapack I uses some work of my own, and adapts some command block stuff for datapacks.
 
-There will be some changes to loot_tables, recepis, and some functions. Right now a couple of recepis for red sand, gravel and normal sand are in, and a function to run faster on path blocks, and jump higher when standing on slime blocks.
+There will be some changes to loot_tables, recipes, and some functions. Right now a couple of recipes for red sand, gravel and normal sand are included, and a function to run faster on path blocks and jump higher when standing on slime blocks.
 
-I have added a function file for "Better armor-stands", which is a 1.13 datapack adaption of a commandblock system showed by Xisumavoid
+I have added a function file for "Better armor-stands", which is a 1.13 datapack adaption of a commandblock system shown by Xisumavoid
 https://www.youtube.com/watch?v=rqfm7zf5yMU
 
-Quite a few new recepies, eg glass blocks from panes and wood from slabs.
+Quite a few new recipes, eg glass blocks from panes and wood from slabs.
 
 ## Installation
 
